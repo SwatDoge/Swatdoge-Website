@@ -8,6 +8,7 @@ export default {
     data: () => ({
         options:{
             responsive: true,
+            legend:{display: false},
             maintainAspectRatio: false
         }
     }),
